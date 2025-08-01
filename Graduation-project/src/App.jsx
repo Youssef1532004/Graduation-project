@@ -6,7 +6,8 @@ import Navbar from './Components/Navbar/Navbar'
 import Product from './Components/Product/Product'
 import ProductDetails from './Components/ProductDetails/ProductDetails'
 import Layout from './Components/Layout/Layout'
-import NotFound from './Components/Notfound/NotFound'
+import NotFound from "./Components/NotFound/NotFound";
+
 
 function App() {
   
